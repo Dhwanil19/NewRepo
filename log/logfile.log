@@ -1,0 +1,4 @@
+2017-07-10 08:05:49,125  INFO [main] - makemytrip.ScenarioExecutor.Setup 57 - Started Chrome
+2017-07-10 08:05:49,174  INFO [main] - makemytrip.ScenarioExecutor.SearchHotel 72 - Searching Hotels
+2017-07-10 08:44:06,359  INFO [main] - makemytrip.ScenarioExecutor.Setup 57 - Started Chrome
+2017-07-10 08:44:06,398  INFO [main] - makemytrip.ScenarioExecutor.SearchHotel 72 - Searching Hotels
